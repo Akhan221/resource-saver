@@ -13,7 +13,7 @@ class Ending extends Component {
           <h1>Here are some tips on reducing usage</h1>
           <ul>
             <li>Unplug your devices when not in use</li>
-            <li>Switch to LED lightbulbs </li>
+            <li>Switch to LED lighting </li>
             <li>Switch to energy efficient appliances </li>
             <li>Invest in a smart thermostat </li>
             <li>Take shorter showers</li>
