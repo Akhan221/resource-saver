@@ -12,7 +12,7 @@ class Intro extends Component {
             <Image src={logo} alt="team logo" size="large" floated="right" />
             <br />
             <h1 id="hi">Hi There,</h1>
-            <h1 class="title"> Let's take a look at your utilities </h1>
+            <h1 class="title"> Let's take a look at your overall utilities </h1>
           </div>
         </div>
       </div>
